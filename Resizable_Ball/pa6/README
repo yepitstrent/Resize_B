@@ -1,0 +1,9 @@
+Welcome to ResizableBall
+
+To run this program, first open a terminal in Linux.
+
+Copy and paste into the commandline:
+javac -cp ./objectdraw.jar:. ResizableBallController.java
+
+If there are no errors from compiling, copy and paste into the commandline:
+appletviewer ResizableBallController.html
